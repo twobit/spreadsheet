@@ -144,6 +144,7 @@ exports.NPER = Financial_1.NPER;
 exports.NOMINAL = Financial_1.NOMINAL;
 exports.MIRR = Financial_1.MIRR;
 exports.IRR = Financial_1.IRR;
+exports.PMT = Financial_1.PMT;
 exports.IPMT = Financial_1.IPMT;
 exports.FV = Financial_1.FV;
 exports.PPMT = Financial_1.PPMT;
